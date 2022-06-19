@@ -1,0 +1,73 @@
+.first-box{
+    text-align: center;
+    font-size: 18px;
+    color: blueviolet;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+.second-box{
+    padding-top: 20px;
+    text-align: center;
+    background-color: pink;
+    height: 330px;
+}
+
+#paul-walker-portrait{
+    width: 480px;
+}
+
+#california-nation-flag-image{
+    width: 400px;
+    margin-left: 20px;
+}
+
+
+
+#Paul-Walker-Vin-Diesel-image{
+    margin-left: 200px;
+    width: 500px;
+}
+
+#furious-team-image{
+    width: 665px;
+}
+
+#crash-image{
+    width: 555px;
+    margin-left: 299px;
+}
+
+#paul-walker-daughter-image{
+    width: 378px;
+}
+
+
+table, th, td {
+    border: 1px solid;
+    margin-left: 570px;
+}
+
+#loving-memory{
+   margin-left: 450px;
+}
+
+#Vin-Diesel-video-loving-memory{
+    margin-left: 480px;
+}
+
+#ROWW-video{
+    margin-top: -300px;
+    float: right;
+}
+
+footer{
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: blueviolet;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
